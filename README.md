@@ -13,3 +13,6 @@ As a beginner in my tech journey, I hope to:
 - Work on *real-world projects*
 - Collaborate with other developers and learn from the community
 - Continuously grow as a *developer and problem solver*
+
+
+google form link for digital literacy quiz - https://docs.google.com/forms/d/e/1FAIpQLSeE9NF2OWZJAeHsSB--ZFuxtW1Fnx1Vv_SsoZs-_iz8nmdgHQ/viewform?usp=header
