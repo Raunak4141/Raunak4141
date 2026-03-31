@@ -1,4 +1,4 @@
-Hi, I'm Raunak Seth 👋
+Hi, I'm Raunak Seth 
 
 About Me
 Hello! My name is *Raunak Seth*.  
